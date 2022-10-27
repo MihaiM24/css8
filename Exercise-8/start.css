@@ -1,0 +1,21 @@
+.flexbox{
+    display:flex;
+    justify-content: center;
+    margin-top:30px;
+
+}
+#green{
+
+}
+#yellow{
+order: -1;
+}
+#orange{
+width: 200px;
+}
+#red{
+order: -1;
+}
+#blue{
+
+}
